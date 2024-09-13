@@ -1,0 +1,11 @@
+INFO     D:\TestFrame\PytestAutoApi-master\logs\info-2024-09-13.log:log_decorator.py:42 
+======================================================
+用例标题: 正常获取个人身份信息
+请求路径: https://www.wanandroid.com/user/lg/userinfo/json
+请求方式: GET
+请求头:   {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'multipart/form-data;', 'cookie': 'loginUserName_wanandroid_com=1418668133;token_pass_wanandroid_com=d426d56b8d39088273db995b656019ee;JSESSIONID=2CADB8B34A36247109454E3700A57B1B;loginUserName=1418668133;token_pass=d426d56b8d39088273db995b656019ee;'}
+请求内容: None
+接口响应内容: {"data":{"coinInfo":{"coinCount":10,"level":1,"nickname":"","rank":"9999+","userId":163878,"username":"1**8668133"},"collectArticleInfo":{"count":0},"userInfo":{"admin":false,"chapterTops":[],"coinCount":10,"collectIds":[],"email":"","icon":"","id":163878,"nickname":"1418668133","password":"","publicName":"1418668133","token":"","type":0,"username":"1418668133"}},"errorCode":0,"errorMsg":""}
+接口响应时长: 216.61 ms
+Http状态码: 200
+=====================================================

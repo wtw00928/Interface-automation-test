@@ -1,0 +1,11 @@
+INFO     D:\TestFrame\PytestAutoApi-master\logs\info-2024-09-13.log:log_decorator.py:42 
+======================================================
+用例标题: 输入非1开头的手机号码
+请求路径: https://www.wanandroid.com/user/login
+请求方式: POST
+请求头:   {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'multipart/form-data; boundary=2ec2250f22a64dc6a2f107fba3beee8b', 'Content-Length': '236'}
+请求内容: {'username': '418668133', 'password': '13275099793'}
+接口响应内容: {"data":null,"errorCode":-1,"errorMsg":"账号密码不匹配！"}
+接口响应时长: 321.62 ms
+Http状态码: 200
+=====================================================

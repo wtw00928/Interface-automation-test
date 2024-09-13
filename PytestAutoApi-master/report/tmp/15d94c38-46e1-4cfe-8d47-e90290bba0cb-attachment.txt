@@ -1,0 +1,11 @@
+INFO     D:\TestFrame\PytestAutoApi-master\logs\info-2024-09-13.log:log_decorator.py:42 
+======================================================
+用例标题: 登录密码为空
+请求路径: https://www.wanandroid.com/user/login
+请求方式: POST
+请求头:   {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'multipart/form-data; boundary=97e82b82133044f4b056bba17e280967', 'Content-Length': '230'}
+请求内容: {'username': '1418668133', 'password': None}
+接口响应内容: {"data":null,"errorCode":-1,"errorMsg":"账号密码不匹配！"}
+接口响应时长: 287.87 ms
+Http状态码: 200
+=====================================================

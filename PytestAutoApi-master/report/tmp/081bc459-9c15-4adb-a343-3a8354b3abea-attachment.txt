@@ -1,0 +1,12 @@
+WARNING  D:\TestFrame\PytestAutoApi-master\logs\warning-2024-09-13.log:dependent_case.py:134 检查到数据库开关为关闭状态，请确认配置
+INFO     D:\TestFrame\PytestAutoApi-master\logs\info-2024-09-13.log:log_decorator.py:42 
+======================================================
+用例标题: 查看收藏网址列表接口
+请求路径: https://www.wanandroid.com/lg/collect/usertools/json
+请求方式: GET
+请求头:   {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'multipart/form-data;', 'cookie': 'loginUserName_wanandroid_com=1418668133;token_pass_wanandroid_com=d426d56b8d39088273db995b656019ee;JSESSIONID=2CADB8B34A36247109454E3700A57B1B;loginUserName=1418668133;token_pass=d426d56b8d39088273db995b656019ee;'}
+请求内容: None
+接口响应内容: {"data":[],"errorCode":0,"errorMsg":""}
+接口响应时长: 221.99 ms
+Http状态码: 200
+=====================================================

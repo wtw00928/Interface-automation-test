@@ -1,0 +1,11 @@
+INFO     D:\TestFrame\PytestAutoApi-master\logs\info-2024-09-13.log:log_decorator.py:42 
+======================================================
+用例标题: 输入手机号码大于于11位
+请求路径: https://www.wanandroid.com/user/login
+请求方式: POST
+请求头:   {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'multipart/form-data; boundary=baa91cef89bc4152ab8a7c2e3b3be7ac', 'Content-Length': '238'}
+请求内容: {'username': '14186681334', 'password': '13275099793'}
+接口响应内容: {"data":null,"errorCode":-1,"errorMsg":"账号密码不匹配！"}
+接口响应时长: 270.93 ms
+Http状态码: 200
+=====================================================
